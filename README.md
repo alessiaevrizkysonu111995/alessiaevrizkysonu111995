@@ -18,10 +18,6 @@ An enthusiast in Roblox game mechanics research. I create tools for gameplay cus
 ## ⚠️ Important Notice
 All projects are created for **educational purposes** and are intended for use in **private servers only**. I am not responsible for any violations of platform rules.
 
-## 📫 Connect With Me
-- **Telegram:** [Your Handle]
-- **Discord:** [Your Handle]
-- **Email:** [Your Professional Email]
 
 ---
 
