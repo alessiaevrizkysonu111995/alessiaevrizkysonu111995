@@ -1,16 +1,28 @@
-## Hi there 👋
+# Roblox Game Research & Development
 
-<!--
-**alessiaevrizkysonu111995/alessiaevrizkysonu111995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 About Me
+An enthusiast in Roblox game mechanics research. I create tools for gameplay customization and explore the possibilities of Lua scripting.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Skills
+- **Lua/UWP:** Advanced scripting for Roblox
+- **C++/C#:** Native utilities and launchers
+- **Reverse Engineering:** Game client analysis
+- **UI/UX:** Intuitive interface design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Project Categories
+- 🎯 **Aim Assistance Systems** - Advanced targeting algorithms
+- 👁️ **Visual Enhancement Tools** - Game data visualization (ESP)
+- ⚡ **Performance Optimizers** - FPS boosters and memory optimizers
+- 🧩 **Gameplay Mechanics Research** - Experimenting with game limits
+
+## ⚠️ Important Notice
+All projects are created for **educational purposes** and are intended for use in **private servers only**. I am not responsible for any violations of platform rules.
+
+## 📫 Connect With Me
+- **Telegram:** [Your Handle]
+- **Discord:** [Your Handle]
+- **Email:** [Your Professional Email]
+
+---
+
+*"Understanding game mechanics through code"*
